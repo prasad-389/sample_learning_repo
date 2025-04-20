@@ -1,0 +1,54 @@
+git branch   ---- current branch name
+git pull origin <branch_name>
+git push origin <branch_name>
+git clone -b <branch_name> <url>   ---- cloning a specific branch
+git clone <url>   ---- cloning main branch
+git checkout <branch_name>  ---- to switch into that specific branch
+git checkout -b  <branch_name>   ----- to create new branch
+git status  
+git log  --- to view all commits
+
+
+
+
+
+----> If we create a branch <feature_dev> from another branch <dev>, then all the files from dev will come into feature_dev
+----> To merge from one branch to another branch, we need to raise pull request(PR)
+
+
+
+git branch   ---- current branch name
+git pull origin <branch_name>
+git push origin <branch_name>
+git clone -b <branch_name> <url>   ---- cloning a specific branch
+git clone <url>   ---- cloning main branch
+git checkout <branch_name>  ---- to switch into that specific branch
+git checkout -b  <branch_name>   ----- to create new branch
+git status  
+git log  --- to view all commits
+
+
+
+
+
+----> If we create a branch <feature_dev> from another branch <dev>, then all the files from dev will come into feature_dev
+----> To merge from one branch to another branch, we need to raise pull request(PR)
+
+
+
+git branch   ---- current branch name
+git pull origin <branch_name>
+git push origin <branch_name>
+git clone -b <branch_name> <url>   ---- cloning a specific branch
+git clone <url>   ---- cloning main branch
+git checkout <branch_name>  ---- to switch into that specific branch
+git checkout -b  <branch_name>   ----- to create new branch
+git status  
+git log  --- to view all commits
+
+
+
+
+
+----> If we create a branch <feature_dev> from another branch <dev>, then all the files from dev will come into feature_dev
+----> To merge from one branch to another branch, we need to raise pull request(PR)

@@ -12,4 +12,5 @@ git log  --- to view all commits
 
 
 
-If we create a branch <feature_dev> from another branch <dev>, then all the files from dev will come into feature_dev
+----> If we create a branch <feature_dev> from another branch <dev>, then all the files from dev will come into feature_dev
+----> To merge from one branch to another branch, we need to raise pull request(PR)
